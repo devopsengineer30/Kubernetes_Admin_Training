@@ -1,3 +1,5 @@
+Helm is a package manager for Kubernetes that makes it easy to take applications and services that are highly repeatable or get used in a lot of different scenarios
+
 Create Kubernetes Cluster in your cloud environment (in Google cloud GKE,or in AWS EKS or in AZURE AKS)
 
 Post cluster creation run the following command and ensure your k8s cluster is fine.
